@@ -1,7 +1,8 @@
 package prjava03quintela17; 
 import java.awt.*;        // using AWT containers and components 
 import java.awt.event.*;  // using AWT events and listener interfaces 
- 
+import java.net.*;
+
 // An AWT GUI program inherits the top-level container java.awt.Frame 
 public class prjava03quintela17 extends Frame 
       implements ActionListener, WindowListener { 
